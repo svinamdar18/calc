@@ -1,0 +1,57 @@
+Direct Recursion: function calls itself
+Indirect recursion: 2 functions calling each other
+
+
+usefull to write complex algorithms
+because it uses stack (created by system)
+  
+
+main()
+{
+    fun1();
+}
+
+
+
+
+learning git commands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
